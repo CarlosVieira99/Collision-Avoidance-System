@@ -1,0 +1,50 @@
+Comment,Designator,Footprint,LCSC Part #
+"0.1u Unpolarized capacitor, small symbol","C1,C2,C11",C_0402_1005Metric,C1525
+"10u Unpolarized capacitor, small symbol","C3,C10",C_0402_1005Metric,C15525
+"4u7 Unpolarized capacitor, small symbol","C4,C5",C_1206_3216Metric,C29823
+"12p Unpolarized capacitor, small symbol","C6,C7",C_0402_1005Metric,C1547
+"0.01u Unpolarized capacitor, small symbol","C8,C22",C_1206_3216Metric,C1846
+"0.1u Unpolarized capacitor, small symbol","C9,C12",C_1206_3216Metric,C24497
+"22uF Unpolarized capacitor, small symbol",C13,C_0805_2012Metric,C12891
+"4u7 Unpolarized capacitor, small symbol",C14,C_0603_1608Metric,C19666
+"100n Unpolarized capacitor, small symbol","C15,C16,C17,C18,C19,C20,C21",C_0402_1005Metric,C1525
+"4700p Unpolarized capacitor, small symbol",C23,C_0805_2012Metric,C1744
+"33u Unpolarized capacitor, small symbol","C24,C26",CP_EIA-3528-21_Kemet-B,C139576
+"39p Unpolarized capacitor, small symbol",C25,C_0603_1608Metric,C53278
+B5819W Schottky diode,D1,D_SOD-123,C8598
+"BLUE Light emitting diode, small symbol",D2,LED_0603_1608Metric,C72041
+"GREEN Light emitting diode, small symbol",D3,LED_0603_1608Metric,C72043
+"1.2A Resettable fuse, polymeric positive temperature coefficient, small symbol",F1,Fuse_1206_3216Metric,C70082
+"600@600MHz Ferrite bead, small symbol",FB1,L_0805_2012Metric,C1017
+M2 Mounting Hole with connection,"H1,H2,H3,H4",MountingHole_2.2mm_M2_Pad_Via,
+"Power_Input_12V Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal,C29823
+"CAN_IN Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,
+"CAN_OUT Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J3,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,
+"LiDAR Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J4,Molex_PicoBlade_53047-0410_1x04_P1.25mm_Vertical,
+"DYNAMIXEL Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J5,MOLEX_22-03-5045,
+"PC Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",J6,MOLEX_22-03-5035,
+"Debug Hardware Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J7,PinHeader_1x04_P1.27mm_Vertical,
+"SWD Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",J11,PinHeader_2x05_P1.27mm_Vertical_SMD,
+"Jumper_2_Open Jumper, 2-pole, open",JP1,PinHeader_1x02_P2.54mm_Vertical,
+"SolderJumper_2_Open Solder Jumper, 2-pole, open","JP2,JP3,JP4,JP5,JP6,JP7,JP8,JP9,JP10,JP11,JP12,JP13",SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,
+"10u Inductor, small symbol",L1,L_Sunlord_MWSA0518_5.4x5.2mm,C408412
+"AO3401A -4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23",Q1,SOT-23,C15127
+"BSS138 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23","Q2,Q3,Q4,Q5",SOT-23,C112239
+"120 Resistor, small symbol",R3,R_0402_1005Metric,C25079
+"10k Resistor, small symbol","R4,R5,R6,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23",R_0402_1005Metric,C25744
+"47 Resistor, small symbol",R7,R_0402_1005Metric,C25118
+"1k Resistor, small symbol",R8,R_0603_1608Metric,C21190
+"20k Resistor, small symbol","R9,R10",R_0402_1005Metric,C25765
+"49.9k Resistor, small symbol",R11,R_0603_1608Metric,C23184
+"10k Resistor, small symbol",R12,R_0603_1608Metric,C25804
+"220 Resistor, small symbol",R13,R_0603_1608Metric,C22962
+"1.91k Resistor, small symbol",R24,R_0603_1608Metric,C22853
+"SW_Push Push button switch, generic, two pins",SW1,SW_SPST_B3U-1000P,
+"SW_SPDT Switch, single pole double throw",SW2,SW_SPDT_PCM12,
+"STM32F103RBTx ARM Cortex-M3 MCU, 128KB flash, 20KB RAM, 72MHz, 2-3.6V, 51 GPIO, LQFP-64",U1,LQFP-64_10x10mm_P0.5mm,C8735
+"TJA1051T-3 High-Speed CAN Transceiver, separate VIO, silent mode, SOIC-8",U2,SOIC-8_3.9x4.9mm_P1.27mm,C38695
+TPS54331 ,U3,SOIC-8_3.9x4.9mm_P1.27mm,C9865
+74HC126 ,U4,SOIC-14_3.9x8.7mm_P1.27mm,C5600
+"SN75176AD Differential RS-422/RS-485 bus transceiver, SOIC-8",U5,SOIC-8_3.9x4.9mm_P1.27mm,C7063
+"AMS1117-3.3 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",U6,SOT-223,C6186
+"16 MHz Four pin crystal, GND on pins 2 and 4, small symbol",Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
